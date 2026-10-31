@@ -69,7 +69,7 @@ A aplicação foi blindada contra falhas de execução inesperadas. Caso um film
 
 ## Informação Institucional e Autoria
 
-O projeto foi totalmente concebido e implementado no âmbito do ecossistema de engenharia de software do **IPCA**:
+O projeto foi totalmente concebido e implementado no âmbito do ecossistema de engenharia de software do **UPCA**:
 * **Estudante:** Fábio Braga, n.º 36949
 * **Unidade Curricular:** Computação Movel
 * **Curso:** Aplicações Móveis
